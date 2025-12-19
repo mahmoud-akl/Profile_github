@@ -5,7 +5,7 @@
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=33&pause=500&color=fef8f5&center=true&vCenter=true&multiline=true&width=700&height=65&lines=🚀+Backend+.NET+Developer;" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=33&pause=500&color=fef8f5&center=true&vCenter=true&multiline=true&width=700&height=65&lines=🚀+Full Stack+Developer;" />
 </p>
 
 ---
@@ -18,7 +18,7 @@ Hi! I'm **Mahmoud Akl**, a passionate **.NET Backend Developer** specializing in
 🔹 Advocate for **secure API design** and **best development practices**  
 🔹 Coffee addict ☕ and lover of continuous learning
 
-🌐 Check out my portfolio 👉 [akl-n1.github.io/Profile](https://akl-n1.github.io/Profile/)
+🌐 Check out my portfolio 👉 [akl-n1.github.io/Profile](https://github.com/mahmoud-akl)
 ---
 ### 🧰 Tech Stack
 
@@ -59,7 +59,7 @@ Hi! I'm **Mahmoud Akl**, a passionate **.NET Backend Developer** specializing in
   <a href="https://t.me/Mahmoud_3kl" target="_blank">
     <img src="https://img.shields.io/badge/-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
   </a>
-  <a href="https://github.com/Akl-n1" target="_blank">
+  <a href="https://github.com/mahmoud-akl" target="_blank">
     <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
